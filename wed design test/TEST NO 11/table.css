@@ -1,0 +1,17 @@
+table, TH, TD{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+td:nth-child(even){
+    background-color: green;
+}
+.green{
+    background-color: green;
+}
+.lightgreen{
+    background-color: yellowgreen;
+}
+h1{
+    text-align: left;
+    font-size: 25px;
+}
